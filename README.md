@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyle Chen</h1>
 <h3 align="center">A fourth year computer science and business student at Western University and Ivey Business School.</h3>
 <h3 align="center">Fun facts about me: I'm left handed ✋ and a huge fan of the Toronto Maple Leafs 🍁!</h3>
-<h3 align="left">Check out my medium:</h3>
 <p align="left">
 
 </p>
