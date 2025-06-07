@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kyle Chen</h1>
-<h3 align="center">A fourth year computer science and business student at Western University and Ivey Business School.</h3>
-<p align="left">
 
+# Hey! 
+
+- 🎓 I’m a student at Western University and Ivey Business School
+- ⚡ I’m interested in software engineering and data
+- 🍁 I like the Leafs... (a lot)..
